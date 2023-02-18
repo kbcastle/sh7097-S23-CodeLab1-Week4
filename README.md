@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# WEEK 4  
 
-DO NOT LEAVE IT LIKE THIS!!!
+Week 4 homework
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+File IO
